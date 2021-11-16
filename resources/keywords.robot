@@ -17,7 +17,7 @@ Appstate
 
 Sign In
     GoTo                         ${URL}
-    TypeText                     Username                          rpai@copado.com.devone                    Password
+    TypeText                     Username                          rpai@copado.com.devone
     TypeSecret                   Password                          ${PASSWORD_SFD1}
     ClickText                    Log In                       
 
