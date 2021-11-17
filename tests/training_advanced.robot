@@ -13,3 +13,4 @@ Login to Salesforce and create a lead
     Appstate                 Sign In
     ClickText                App Launcher
     ClickText                View All
+    ClickText                Marketing                                        Community
